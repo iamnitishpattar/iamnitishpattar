@@ -10,23 +10,39 @@
 
 ### 👨‍💻 About Me
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/nitish-pattar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nitishpattar7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/iamnitishpattar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
+<br>
+
 I am a passionate **Master of Computer Applications (MCA)** student and a developer who loves bridging the gap between intelligent **Machine Learning** algorithms and beautiful, functional **Web Applications**. From DNA data storage simulations to sports analytics, I enjoy tackling complex problems and building robust systems.
 
 - 🎓 **Education:** Final-year MCA Student
 - 💡 **Interests:** Applied Machine Learning, Natural Language Processing (NLP), Full-Stack Development
 - 🚀 **Currently working on:** Advanced AI models and cutting-edge web applications
-- 📫 **How to reach me:** [nitishpattar7@gmail.com]
+- 📫 **How to reach me:** [nitishpattar7@gmail.com](mailto:nitishpattar7@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+**Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,fastapi,flask,nodejs,mongodb,mysql,git,github,vscode,docker&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,fastapi,flask,nodejs&perline=10" alt="Languages & Frameworks" />
 </div>
 
 <br>
 
+**Databases & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,docker&perline=10" alt="Databases & Tools" />
+</div>
+
+<br>
+
+**Data Science & Machine Learning**
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -37,13 +53,42 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
 
 ### 🚀 Featured Projects
 
-| 🧬 [HelixVault](https://github.com/iamnitishpattar/HelixVault) | 🏏 [Cricket Predictor](https://github.com/iamnitishpattar/Cricket-Player-Performance-Predictor) |
-| :--- | :--- |
-| **DNA-Based Data Storage System**<br>A cloud-deployed full-stack app (Next.js + FastAPI) that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction. | **Sports Analytics Desktop App**<br>A desktop app built with CustomTkinter that scrapes real-time player stats and uses ML to predict upcoming match runs and likely dismissal methods. |
-
-| 🏠 [Real Estate Dashboard](https://github.com/iamnitishpattar/Real-Estate-Project) | 📩 [SMS Spam Classifier](https://github.com/iamnitishpattar/SMS-spam-classifier) |
-| :--- | :--- |
-| **Market Predictor & Analytics**<br>An analytical web application featuring interactive charts and a prediction form to forecast real estate prices using historical market data. | **AI NLP Application**<br>A Flask web app with a beautiful Glassmorphism UI that uses TF-IDF and Naive Bayes to classify SMS messages as Spam or Ham with 97.8% accuracy. |
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/iamnitishpattar/HelixVault">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=HelixVault&theme=tokyonight" alt="HelixVault" width="100%"/>
+        </a>
+        <br>
+        <p><b>DNA-Based Data Storage System</b><br>A cloud-deployed full-stack app (Next.js + FastAPI) that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction.</p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/iamnitishpattar/Cricket-Player-Performance-Predictor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=Cricket-Player-Performance-Predictor&theme=tokyonight" alt="Cricket Predictor" width="100%"/>
+        </a>
+        <br>
+        <p><b>Sports Analytics Desktop App</b><br>A desktop app built with CustomTkinter that scrapes real-time player stats and uses ML to predict upcoming match runs and likely dismissal methods.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/iamnitishpattar/Real-Estate-Project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=Real-Estate-Project&theme=tokyonight" alt="Real Estate Dashboard" width="100%"/>
+        </a>
+        <br>
+        <p><b>Market Predictor & Analytics</b><br>An analytical web application featuring interactive charts and a prediction form to forecast real estate prices using historical market data.</p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/iamnitishpattar/SMS-spam-classifier">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=SMS-spam-classifier&theme=tokyonight" alt="SMS Spam Classifier" width="100%"/>
+        </a>
+        <br>
+        <p><b>AI NLP Application</b><br>A Flask web app with a beautiful Glassmorphism UI that uses TF-IDF and Naive Bayes to classify SMS messages as Spam or Ham with 97.8% accuracy.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -51,17 +96,29 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
 
 <div align="center">
   <a href="https://github.com/iamnitishpattar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnitishpattar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnitishpattar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/iamnitishpattar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnitishpattar&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnitishpattar&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnitishpattar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnitishpattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
