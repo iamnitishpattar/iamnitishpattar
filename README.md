@@ -11,6 +11,7 @@
 ### 👨‍💻 About Me
 
 <div align="left">
+  <a href="https://nitish-portfolio-amber.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nitish-pattar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nitishpattar7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/iamnitishpattar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -20,6 +21,7 @@
 I am a passionate **Master of Computer Applications (MCA)** student and a developer who loves bridging the gap between intelligent **Machine Learning** algorithms and beautiful, functional **Web Applications**. From DNA data storage simulations to sports analytics, I enjoy tackling complex problems and building robust systems.
 
 - 🎓 **Education:** Final-year MCA Student
+- 🌐 **Portfolio:** [nitish-portfolio-amber.vercel.app](https://nitish-portfolio-amber.vercel.app)
 - 💡 **Interests:** Applied Machine Learning, Natural Language Processing (NLP), Full-Stack Development
 - 🚀 **Currently working on:** Advanced AI models and cutting-edge web applications
 - 📫 **How to reach me:** [nitishpattar7@gmail.com](mailto:nitishpattar7@gmail.com)
