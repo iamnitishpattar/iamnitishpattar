@@ -64,11 +64,11 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
         <p><b>DNA-Based Data Storage System</b><br>A cloud-deployed full-stack app (Next.js + FastAPI) that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction.</p>
       </td>
       <td width="50%">
-        <a href="https://github.com/iamnitishpattar/Cricket-Player-Performance-Predictor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=Cricket-Player-Performance-Predictor&theme=tokyonight" alt="Cricket Predictor" width="100%"/>
+        <a href="https://github.com/iamnitishpattar/Financial-Market-News-Sentiment-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=Financial-Market-News-Sentiment-Analysis&theme=tokyonight" alt="Financial News Sentiment Analysis" width="100%"/>
         </a>
         <br>
-        <p><b>Sports Analytics Desktop App</b><br>A desktop app built with CustomTkinter that scrapes real-time player stats and uses ML to predict upcoming match runs and likely dismissal methods.</p>
+        <p><b>Financial News Sentiment Analysis</b><br>An end-to-end Machine Learning project that performs Sentiment Analysis on financial market news headlines using NLP and a Random Forest Classifier to predict stock market movements.</p>
       </td>
     </tr>
     <tr>
