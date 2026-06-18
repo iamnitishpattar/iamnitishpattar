@@ -73,8 +73,8 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/iamnitishpattar/Real-Estate-Project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=Real-Estate-Project&theme=tokyonight" alt="Real Estate Dashboard" width="100%"/>
+        <a href="https://github.com/iamnitishpattar/-real-estate-price-prediction-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=-real-estate-price-prediction-&theme=tokyonight" alt="Real Estate Dashboard" width="100%"/>
         </a>
         <br>
         <p><b>Market Predictor & Analytics</b><br>An analytical web application featuring interactive charts and a prediction form to forecast real estate prices using historical market data.</p>
