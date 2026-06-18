@@ -15,7 +15,7 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
 - 🎓 **Education:** Final-year MCA Student
 - 💡 **Interests:** Applied Machine Learning, Natural Language Processing (NLP), Full-Stack Development
 - 🚀 **Currently working on:** Advanced AI models and cutting-edge web applications
-- 📫 **How to reach me:** [Your LinkedIn/Email here]
+- 📫 **How to reach me:** [nitishpattar7@gmail.com]
 
 ---
 
