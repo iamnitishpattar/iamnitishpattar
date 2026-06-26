@@ -89,6 +89,17 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
         <p><b>AI NLP Application</b><br>A Flask web app with a beautiful Glassmorphism UI that uses TF-IDF and Naive Bayes to classify SMS messages as Spam or Ham with 97.8% accuracy.</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/iamnitishpattar/aws-cloud-ops-dashboard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=aws-cloud-ops-dashboard&theme=tokyonight&cache_bust=1" alt="AWS Cloud Ops Dashboard" width="100%"/>
+        </a>
+        <br>
+        <p><b>AWS Cloud Ops Dashboard</b><br>A full-stack cloud operations dashboard to provision, manage, and monitor AWS EC2 instances with real-time metrics and an intuitive web interface.</p>
+      </td>
+      <td width="50%">
+      </td>
+    </tr>
   </table>
 </div>
 
