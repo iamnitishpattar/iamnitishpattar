@@ -136,6 +136,17 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
 
 ---
 
+### 🤝 Connect & Support
+
+<div align="center">
+  <p>I'm always open to collaborating on innovative AI and Full-Stack projects! If you found any of my repositories helpful, consider supporting my work:</p>
+  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamnitishpattar&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
