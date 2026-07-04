@@ -60,14 +60,14 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
     <tr>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/HelixVault">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=HelixVault&theme=tokyonight&cache_bust=1" alt="HelixVault" width="100%"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=HelixVault&theme=tokyonight&cache_bust=1" alt="HelixVault" width="100%"/>
         </a>
         <br>
         <p><b>DNA-Based Data Storage System</b><br>A cloud-deployed full-stack app (Next.js + FastAPI) that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction.</p>
       </td>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/Financial-Market-News-Sentiment-Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=Financial-Market-News-Sentiment-Analysis&theme=tokyonight&cache_bust=1" alt="Financial News Sentiment Analysis" width="100%"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=Financial-Market-News-Sentiment-Analysis&theme=tokyonight&cache_bust=1" alt="Financial News Sentiment Analysis" width="100%"/>
         </a>
         <br>
         <p><b>Financial News Sentiment Analysis</b><br>An end-to-end Machine Learning project that performs Sentiment Analysis on financial market news headlines using NLP and a Random Forest Classifier to predict stock market movements.</p>
@@ -76,14 +76,14 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
     <tr>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/-real-estate-price-prediction-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=-real-estate-price-prediction-&theme=tokyonight&cache_bust=1" alt="Real Estate Dashboard" width="100%"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=-real-estate-price-prediction-&theme=tokyonight&cache_bust=1" alt="Real Estate Dashboard" width="100%"/>
         </a>
         <br>
         <p><b>Market Predictor & Analytics</b><br>An analytical web application featuring interactive charts and a prediction form to forecast real estate prices using historical market data.</p>
       </td>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/SMS-spam-classifier">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=SMS-spam-classifier&theme=tokyonight&cache_bust=1" alt="SMS Spam Classifier" width="100%"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=SMS-spam-classifier&theme=tokyonight&cache_bust=1" alt="SMS Spam Classifier" width="100%"/>
         </a>
         <br>
         <p><b>AI NLP Application</b><br>A Flask web app with a beautiful Glassmorphism UI that uses TF-IDF and Naive Bayes to classify SMS messages as Spam or Ham with 97.8% accuracy.</p>
@@ -92,7 +92,7 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
     <tr>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/aws-cloud-ops-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnitishpattar&repo=aws-cloud-ops-dashboard&theme=tokyonight&cache_bust=1" alt="AWS Cloud Ops Dashboard" width="100%"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=aws-cloud-ops-dashboard&theme=tokyonight&cache_bust=1" alt="AWS Cloud Ops Dashboard" width="100%"/>
         </a>
         <br>
         <p><b>AWS Cloud Ops Dashboard</b><br>A full-stack cloud operations dashboard to provision, manage, and monitor AWS EC2 instances with real-time metrics and an intuitive web interface.</p>
@@ -109,10 +109,10 @@ I am a passionate **Master of Computer Applications (MCA)** student and a develo
 
 <div align="center">
   <a href="https://github.com/iamnitishpattar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnitishpattar&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_bust=1"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=iamnitishpattar&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_bust=1"/>
   </a>
   <a href="https://github.com/iamnitishpattar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnitishpattar&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamnitishpattar&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1"/>
   </a>
 </div>
 
