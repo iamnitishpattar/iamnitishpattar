@@ -1,6 +1,13 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nitish+Pattar+%F0%9F%91%8B;Full+Stack+Developer+%26+MCA+Student;Building+AI+%26+Data-Driven+Applications;Open+to+Collaborations+%26+Internships" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="terminal.svg" alt="Nitish Pattar — Terminal Profile" width="100%"/>
 </div>
+
 
 ---
 
