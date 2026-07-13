@@ -4,27 +4,43 @@
 
 ---
 
+<!-- Trophies -->
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnitishpattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,fastapi,flask,nodejs&perline=10" alt="Languages & Frameworks" />
-</div>
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Databases & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,docker&perline=10" alt="Databases & Tools" />
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<br>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Data Science & Machine Learning**
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
 ---
@@ -39,14 +55,14 @@
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=HelixVault&theme=tokyonight&cache_bust=1" alt="HelixVault" width="100%"/>
         </a>
         <br>
-        <p><b>DNA-Based Data Storage System</b><br>A cloud-deployed full-stack app (Next.js + FastAPI) that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction.</p>
+        <p><b>🧬 DNA-Based Data Storage System</b><br>A cloud-deployed full-stack app (Next.js + FastAPI) that encodes files into DNA sequences, simulates biological mutations, and recovers data using Reed-Solomon Error Correction.</p>
       </td>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/Financial-Market-News-Sentiment-Analysis">
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=Financial-Market-News-Sentiment-Analysis&theme=tokyonight&cache_bust=1" alt="Financial News Sentiment Analysis" width="100%"/>
         </a>
         <br>
-        <p><b>Financial News Sentiment Analysis</b><br>An end-to-end Machine Learning project that performs Sentiment Analysis on financial market news headlines using NLP and a Random Forest Classifier to predict stock market movements.</p>
+        <p><b>📈 Financial News Sentiment Analysis</b><br>An end-to-end ML project performing Sentiment Analysis on financial market news headlines using NLP and a Random Forest Classifier to predict stock market movements.</p>
       </td>
     </tr>
     <tr>
@@ -55,14 +71,14 @@
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=-real-estate-price-prediction-&theme=tokyonight&cache_bust=1" alt="Real Estate Dashboard" width="100%"/>
         </a>
         <br>
-        <p><b>Market Predictor & Analytics</b><br>An analytical web application featuring interactive charts and a prediction form to forecast real estate prices using historical market data.</p>
+        <p><b>🏠 Market Predictor & Analytics</b><br>An analytical web app with interactive charts and a prediction form to forecast real estate prices using historical market data and ML models.</p>
       </td>
       <td width="50%">
         <a href="https://github.com/iamnitishpattar/SMS-spam-classifier">
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=SMS-spam-classifier&theme=tokyonight&cache_bust=1" alt="SMS Spam Classifier" width="100%"/>
         </a>
         <br>
-        <p><b>AI NLP Application</b><br>A Flask web app with a beautiful Glassmorphism UI that uses TF-IDF and Naive Bayes to classify SMS messages as Spam or Ham with 97.8% accuracy.</p>
+        <p><b>🤖 AI NLP Application</b><br>A Flask web app with Glassmorphism UI using TF-IDF and Naive Bayes to classify SMS messages as Spam or Ham with 97.8% accuracy.</p>
       </td>
     </tr>
     <tr>
@@ -71,7 +87,7 @@
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=iamnitishpattar&repo=aws-cloud-ops-dashboard&theme=tokyonight&cache_bust=1" alt="AWS Cloud Ops Dashboard" width="100%"/>
         </a>
         <br>
-        <p><b>AWS Cloud Ops Dashboard</b><br>A full-stack cloud operations dashboard to provision, manage, and monitor AWS EC2 instances with real-time metrics and an intuitive web interface.</p>
+        <p><b>☁️ AWS Cloud Ops Dashboard</b><br>A full-stack cloud operations dashboard to provision, manage, and monitor AWS EC2 instances with real-time metrics and an intuitive web interface.</p>
       </td>
       <td width="50%">
       </td>
@@ -98,7 +114,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnitishpattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br>
+---
+
+<!-- Activity Graph -->
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnitishpattar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
 
 ### 🐍 GitHub Contribution Snake
 
@@ -112,17 +137,35 @@
 
 ---
 
+<!-- Dev Quote -->
+### 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
+</div>
+
+---
+
 ### 🤝 Connect & Support
 
 <div align="center">
-  <p>I'm always open to collaborating on innovative AI and Full-Stack projects! If you found any of my repositories helpful, consider supporting my work:</p>
-  <a href="https://topmate.io/iamnitishpattar" target="_blank">
-    <img src="https://img.shields.io/badge/Topmate-Support%20Me-FF5A5F?style=for-the-badge&logoColor=white" alt="Topmate" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nitish-portfolio-amber.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-pattar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishpattar7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamnitishpattar)
+[![Topmate](https://img.shields.io/badge/Topmate-Support%20Me-FF5A5F?style=for-the-badge&logoColor=white)](https://topmate.io/iamnitishpattar)
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamnitishpattar&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamnitishpattar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>⭐ Star my repos if you find them useful! Every star motivates me to build more. ⭐</i>
 </div>
