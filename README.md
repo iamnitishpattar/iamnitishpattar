@@ -1,23 +1,22 @@
-```text
-       .---=+*#########***+=---:        nitish@pattar
-       .=+*#################*+=:        -------------------
-       -#######################=        Role:       MCA Student, ML & Full-Stack Developer
-       =#######################+        Education:  Master of Computer Applications
-       =#######################+        Portfolio:  nitish-portfolio-amber.vercel.app
-       =####%####%#############+        Email:      nitishpattar7@gmail.com
-       =####=--::=#############+        LinkedIn:   nitish-pattar
-       =###*-=+*-:*%###########+        GitHub:     iamnitishpattar
-       =###*++++==#############+        
-       -****-++==*****+++++++==-        Languages:  Python, JavaScript, HTML, CSS
-       :=-::-=-: =#*+=========--        Frameworks: React, Next.js, FastAPI, Flask, Node.js
-       :-:.=%*:..:=+*+++=----=-:        Databases:  MongoDB, MySQL
-        ...:=.......:=+++==----:        Tools:      Git, GitHub, VSCode, Docker
-        .............:++++==--:.        ML & Data:  Scikit-learn, Pandas, OpenCV
-       ....:..........-+++====:.        
-          ......    ...:-===-::.        Interests:  Applied ML, NLP, AI Systems
-             ...       ..:::....        Mission:    Building AI & Data-Driven Apps
-                                        
-                                        
+```
+                                         nitish@pattar
+                                         -------------------
+               -@@@@@@@@@                OS:         Windows 11
+              @@@@@@@@@@@@               Role:       MCA Student & Full-Stack Dev
+              @@         @@              Education:  Master of Computer Applications
+              @:-@@@.@@@++@              Portfolio:  nitish-portfolio-amber.vercel.app
+             :@ -+#: =@*+ @              Email:      nitishpattar7@gmail.com
+              %=  .*##.  #+              LinkedIn:   nitish-pattar
+               %@@@#%%@@@=               GitHub:     iamnitishpattar
+                @@@#@#@@%                
+                :@@@@@@@                 Languages:  Python, JavaScript, HTML, CSS
+              :@  @@@@% +@               Frameworks: React, Next.js, FastAPI, Flask
+          =#%@@@= .%@+  @@@@@@#-         Databases:  MongoDB, MySQL
+    =*#@@@@##%%@@.     +@@@@@%@@@@@@     Tools:      Git, GitHub, VSCode, Docker
+    @@@@%#**###%@=     @@%#%*##%%@@@%    ML & Data:  Scikit-learn, Pandas, OpenCV
+   +@@%##**#*#%#@@    =@%#%**###%%@@@    
+   @@@@########%%@+   @@%%%###%%#@@@@*   Interests:  Applied ML, NLP, AI Systems
+                                         Mission:    Building AI & Data-Driven Apps
 ```
 
 ---
