@@ -183,16 +183,21 @@
 <!-- Dev Quote -->
 ### 💬 Dev Quote of the Day
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
-</div>
-
 ---
 
-### 😄 Random Dev Joke
+### 📡 Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<div align="center">
+  <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /></p>
 </div>
 
 ---
