@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)**
 - 🔭 Currently building **[HelixVault](https://github.com/iamnitishpattar/HelixVault)** — DNA-Based Data Storage
