@@ -13,15 +13,24 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://github.com/iamnitishpattar/iamnitishpattar/blob/main/coding.gif?raw=true" />
-
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 🔭 Currently building **[HelixVault](https://github.com/iamnitishpattar/HelixVault)** — DNA-Based Data Storage
-- 🌱 Currently learning **Kubernetes, LLM Fine-tuning & RAG**
-- 👯 Open to collaborate on **AI, ML & Full-Stack projects**
-- 💬 Ask me about **Python, React, FastAPI, Machine Learning**
-- 📫 Reach me at **nitishpattar7@gmail.com**
-- ⚡ Fun fact: I encoded a file into DNA sequences and got it back perfectly — using Reed-Solomon Error Correction!
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <ul>
+        <li>🎓 Pursuing <b>Master of Computer Applications (MCA)</b></li>
+        <li>🔭 Currently building <a href="https://github.com/iamnitishpattar/HelixVault"><b>HelixVault</b></a> — DNA-Based Data Storage</li>
+        <li>🌱 Currently learning <b>Kubernetes, LLM Fine-tuning & RAG</b></li>
+        <li>👯 Open to collaborate on <b>AI, ML & Full-Stack projects</b></li>
+        <li>💬 Ask me about <b>Python, React, FastAPI, Machine Learning</b></li>
+        <li>📫 Reach me at <a href="mailto:nitishpattar7@gmail.com"><b>nitishpattar7@gmail.com</b></a></li>
+        <li>⚡ Fun fact: I encoded a file into DNA sequences and got it back perfectly — using Reed-Solomon Error Correction!</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top" style="border: none;">
+      <img src="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/main/dev-working.gif?v=3" alt="Coding GIF" width="340" />
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
