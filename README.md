@@ -1,30 +1,25 @@
 ```
-                                                          nitish@pattar --------------------------.--
-                                                            OS: .............. Windows 11
-                         ^<+l                               Role: ............. MCA Student & Full-Stack Dev
-                    {$$$$$$$$$$$$$&                         Education: ........ Master of Computer Applications
-                   $$$$$$$$$$$$$$$$$                        Portfolio: ........ nitish-portfolio-amber.vercel.app
-                  $$$$$$$$$j   !<1Q$$B                      Email: ............. nitishpattar7@gmail.com
-                  $$$              %$$]                     LinkedIn: .......... linkedin.com/in/nitish-pattar
-                  $$' ;vW$bu{u8$Wc< $$                      GitHub: ............ iamnitishpattar
-                  $$ $$$$$$j $$$$$$^*$,                   
-                 l$$     ,    |>`   ~$|                   - Languages & Tools -----------------------------.--
-                  n$(`  \ w$*$n   ,|$8                      Languages: ......... Python, JavaScript, HTML, CSS
-                   ?$$$$$$$$$$$$$8$$C                       Frameworks: ........ React, Next.js, FastAPI, Flask
-                    -$$$$tjZqXvM$$$L                        Databases: ......... MongoDB, MySQL
-                     n$$$@Z$$&M$$$Q                         DevTools: .......... Git, GitHub, VSCode, Docker
-                      $$$$$$$$$$$$                          ML & Data: ......... Scikit-learn, Pandas, OpenCV
-                    d  $$%$$$$$$$ -Z                      
-                ,-v$$h  0$$$$$$$  $$$ZY]                  - Interests -------------------------------------.--
-            [p$$$$$$$$   J$$$$   Z$$$$$$$$$&v,              Fields: ............ Applied ML, NLP, Full-Stack
-     "[nb$$$$$$*%$$$$$$<   $M-   $$$$$$$$$$$$$$$$p|i        Currently: ......... Building AI & Data-Driven Apps
-   $$$$$$$$$@*bk$o*@$$$}      + O$$$$@$$$B%$$$$$$$$$$       Open to: ........... Collaborations & Internships
-  ;$$$$$$$@%WwwpW$*M$$$$        $$$$#*$ahW&8B$$$$$$$$     
-  $$$$$$88Waab*M*W$o&$$$]      X$$$*a$*pbo*M8%8@$$$$${    
-  $$$$$8W%Wa*MWoaoB$o8$$$      $$$8h$@ddb***MWW8$$$$$$    
- &$$$$$BBB&8@B8oooo@$W$$$f    q$$$W$$WM#M%$$$@@B$$$$$$0   
+                                                    nitish@pattar -----------------------------.--
+                                                      OS: ........... Windows 11
+                  ,+?S####S*+:.                       Role: ......... MCA Student & Full-Stack Dev
+                .S@@@@@@@@@@@@%;                      Education: .... Master of Computer Applications
+               .%@@@@@@%#?SSS#%@*.                    Portfolio: ..... nitish-portfolio-amber.vercel.app
+               :@@SS?**++++*???@@*                    Email: ......... nitishpattar7@gmail.com
+               .@%+?S###SS#%#S*S@,                    LinkedIn: ...... linkedin.com/in/nitish-pattar
+               +#?S%@@@%;S@@@@%+%*                    GitHub: ......... iamnitishpattar
+               :%*;;;+?*;*S?++++%;                  
+                +###%@#@@@@%%#%#*                   - Languages & Tools ---------------------------.--
+                 :@@@@@%%%@@@@@;.                     Languages: ..... Python, JavaScript, HTML, CSS
+                  +@@@@@@@@@@@+                       Frameworks: .... React, Next.js, FastAPI, Flask
+                  :%@@@@@@@@@@:                       Databases: ..... MongoDB, MySQL
+               .,*?:#@@@@@@@@+#*:.                    DevTools: ...... Git, GitHub, VSCode, Docker
+          .,:+?S%@@:.?@@@@@?.*@@%%#?+:,.              ML & Data: ..... Scikit-learn, Pandas, OpenCV
+    .,:;+?#%%%%@@@@%;;;#@#:.,@@@@@@@@@@%S*;:,.      
+  ,S##%@@@@@%%@@@@@@*..,:;*:?@@@@@@@@@@@@@@@%#,     - Interests -----------------------------------.--
+  ?@@@@@@@@@@@@@@@@@%.......@@@@@@@@@@@@@@@@@@+       Fields: ........ Applied ML, NLP, Full-Stack
+ ,@@@@@@@@@@@@@@@@@@@+... .*@@@@@@@@@@@@@@@@@@%.      Building: ...... AI & Data-Driven Applications
+ ?@@@@@@@@@@@@@@@@@@@%.   .@@@@@@@@@@@@@@@@@@@@+      Open to: ....... Collaborations & Internships
 ```
-
 ---
 
 ### 🛠️ Tech Stack & Tools
