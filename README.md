@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="top" style="border: none;">
-      <img src="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/main/coding.gif" alt="Coding GIF" width="100%" />
+      <img src="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/main/coding.gif?v=1" alt="Coding GIF" width="340" />
     </td>
   </tr>
 </table>
