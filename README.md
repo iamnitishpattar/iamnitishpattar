@@ -1,30 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Nitish%20Pattar&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Enthusiast%20&%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Banner"/>
-
-  <br><br>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=MCA+Student;Machine+Learning+Explorer;Full-Stack+Web+Developer;Building+AI+%26+Data-Driven+Apps" alt="Typing SVG" /></a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-<div align="left">
-  <a href="https://nitish-portfolio-amber.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/nitish-pattar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nitishpattar7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/iamnitishpattar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-<br>
-
-I am a passionate **Master of Computer Applications (MCA)** student and a developer who loves bridging the gap between intelligent **Machine Learning** algorithms and beautiful, functional **Web Applications**. From DNA data storage simulations to sports analytics, I enjoy tackling complex problems and building robust systems.
-
-- 🎓 **Education:** Final-year MCA Student
-- 🌐 **Portfolio:** [nitish-portfolio-amber.vercel.app](https://nitish-portfolio-amber.vercel.app)
-- 💡 **Interests:** Applied Machine Learning, Natural Language Processing (NLP), Full-Stack Development
-- 🚀 **Currently working on:** Advanced AI models and cutting-edge web applications
-- 📫 **How to reach me:** [nitishpattar7@gmail.com](mailto:nitishpattar7@gmail.com)
+```text
+       .---=+*#########***+=---:        nitish@pattar
+       .=+*#################*+=:        -------------------
+       -#######################=        Role:       MCA Student, ML & Full-Stack Developer
+       =#######################+        Education:  Master of Computer Applications
+       =#######################+        Portfolio:  nitish-portfolio-amber.vercel.app
+       =####%####%#############+        Email:      nitishpattar7@gmail.com
+       =####=--::=#############+        LinkedIn:   nitish-pattar
+       =###*-=+*-:*%###########+        GitHub:     iamnitishpattar
+       =###*++++==#############+        
+       -****-++==*****+++++++==-        Languages:  Python, JavaScript, HTML, CSS
+       :=-::-=-: =#*+=========--        Frameworks: React, Next.js, FastAPI, Flask, Node.js
+       :-:.=%*:..:=+*+++=----=-:        Databases:  MongoDB, MySQL
+        ...:=.......:=+++==----:        Tools:      Git, GitHub, VSCode, Docker
+        .............:++++==--:.        ML & Data:  Scikit-learn, Pandas, OpenCV
+       ....:..........-+++====:.        
+          ......    ...:-===-::.        Interests:  Applied ML, NLP, AI Systems
+             ...       ..:::....        Mission:    Building AI & Data-Driven Apps
+                                        
+                                        
+```
 
 ---
 
