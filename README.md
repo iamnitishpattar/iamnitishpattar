@@ -151,9 +151,8 @@
 
 ### ⏱️ WakaTime Coding Stats
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=iamnitishpattar&theme=tokyonight&hide_border=true&layout=compact&cache_bust=2" alt="WakaTime Stats" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 > 💡 *Stats update automatically once [WakaTime](https://wakatime.com) is set up in VSCode*
 
