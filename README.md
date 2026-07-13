@@ -11,6 +11,22 @@
 
 ---
 
+### 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 🔭 Currently building **[HelixVault](https://github.com/iamnitishpattar/HelixVault)** — DNA-Based Data Storage
+- 🌱 Currently learning **Kubernetes, LLM Fine-tuning & RAG**
+- 👯 Open to collaborate on **AI, ML & Full-Stack projects**
+- 💬 Ask me about **Python, React, FastAPI, Machine Learning**
+- 📫 Reach me at **nitishpattar7@gmail.com**
+- ⚡ Fun fact: I encoded a file into DNA sequences and got it back perfectly — using Reed-Solomon Error Correction!
+
+<br clear="right"/>
+
+---
+
 <!-- Trophies -->
 ### 🏆 GitHub Trophies
 
@@ -121,6 +137,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnitishpattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+
+---
+
+### ⏱️ WakaTime Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamnitishpattar&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+> 💡 *Stats update automatically once [WakaTime](https://wakatime.com) is set up in VSCode*
+
 ---
 
 <!-- Activity Graph -->
@@ -149,6 +176,14 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
+</div>
+
+---
+
+### 😄 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 </div>
 
 ---
