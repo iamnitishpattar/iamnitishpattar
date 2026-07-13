@@ -8,7 +8,8 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnitishpattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://raw.githubusercontent.com/iamnitishpattar/iamnitishpattar/output/trophy.svg" alt="GitHub Trophies" width="100%"
+    onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=iamnitishpattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1'"/>
 </div>
 
 ---

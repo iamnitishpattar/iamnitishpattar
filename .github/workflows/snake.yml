@@ -32,9 +32,21 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # generates github profile trophies and saves as SVG
+      - name: generate github-profile-trophy
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          github-user: iamnitishpattar
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          output: dist/trophy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       # push the content of <build_dir> to a branch
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
