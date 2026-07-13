@@ -1,25 +1,7 @@
-```
-                                                    nitish@pattar -----------------------------.--
-                                                      OS: ........... Windows 11
-                  ,+?S####S*+:.                       Role: ......... MCA Student & Full-Stack Dev
-                .S@@@@@@@@@@@@%;                      Education: .... Master of Computer Applications
-               .%@@@@@@%#?SSS#%@*.                    Portfolio: ..... nitish-portfolio-amber.vercel.app
-               :@@SS?**++++*???@@*                    Email: ......... nitishpattar7@gmail.com
-               .@%+?S###SS#%#S*S@,                    LinkedIn: ...... linkedin.com/in/nitish-pattar
-               +#?S%@@@%;S@@@@%+%*                    GitHub: ......... iamnitishpattar
-               :%*;;;+?*;*S?++++%;                  
-                +###%@#@@@@%%#%#*                   - Languages & Tools ---------------------------.--
-                 :@@@@@%%%@@@@@;.                     Languages: ..... Python, JavaScript, HTML, CSS
-                  +@@@@@@@@@@@+                       Frameworks: .... React, Next.js, FastAPI, Flask
-                  :%@@@@@@@@@@:                       Databases: ..... MongoDB, MySQL
-               .,*?:#@@@@@@@@+#*:.                    DevTools: ...... Git, GitHub, VSCode, Docker
-          .,:+?S%@@:.?@@@@@?.*@@%%#?+:,.              ML & Data: ..... Scikit-learn, Pandas, OpenCV
-    .,:;+?#%%%%@@@@%;;;#@#:.,@@@@@@@@@@%S*;:,.      
-  ,S##%@@@@@%%@@@@@@*..,:;*:?@@@@@@@@@@@@@@@%#,     - Interests -----------------------------------.--
-  ?@@@@@@@@@@@@@@@@@%.......@@@@@@@@@@@@@@@@@@+       Fields: ........ Applied ML, NLP, Full-Stack
- ,@@@@@@@@@@@@@@@@@@@+... .*@@@@@@@@@@@@@@@@@@%.      Building: ...... AI & Data-Driven Applications
- ?@@@@@@@@@@@@@@@@@@@%.   .@@@@@@@@@@@@@@@@@@@@+      Open to: ....... Collaborations & Internships
-```
+<div align="center">
+  <img src="terminal.svg" alt="Nitish Pattar — Terminal Profile" width="100%"/>
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
