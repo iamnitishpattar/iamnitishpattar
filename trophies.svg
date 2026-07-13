@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="806" height="164" viewBox="0 0 806 164">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#58a6ff"/><stop offset="100%" stop-color="#bc8cff"/></linearGradient></defs>
+<rect width="806" height="164" fill="#0d1117" rx="12"/>
+<text x="403" y="21" fill="url(#g)" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">🏆  GitHub Trophies — iamnitishpattar</text>
+<line x1="18" y1="28" x2="788" y2="28" stroke="#21262d" stroke-width="1"/>
+<rect x="18" y="34" width="120" height="100" fill="#161b22" rx="8" stroke="#ffd700" stroke-width="1" stroke-opacity="0.45"/>
+<text x="78" y="62" font-size="22" text-anchor="middle">⭐</text>
+<text x="78" y="90" fill="#ffd700" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">2</text>
+<text x="78" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">Stars</text>
+<text x="78" y="124" fill="#ffd700" font-family="Segoe UI, Arial, sans-serif" font-size="9" text-anchor="middle" opacity="0.6">A Rank</text>
+<rect x="148" y="34" width="120" height="100" fill="#161b22" rx="8" stroke="#adbac7" stroke-width="1" stroke-opacity="0.45"/>
+<text x="208" y="62" font-size="22" text-anchor="middle">🍴</text>
+<text x="208" y="90" fill="#adbac7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">0</text>
+<text x="208" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">Forks</text>
+<text x="208" y="124" fill="#adbac7" font-family="Segoe UI, Arial, sans-serif" font-size="9" text-anchor="middle" opacity="0.6">A Rank</text>
+<rect x="278" y="34" width="120" height="100" fill="#161b22" rx="8" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.45"/>
+<text x="338" y="62" font-size="22" text-anchor="middle">📦</text>
+<text x="338" y="90" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">10</text>
+<text x="338" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">Repos</text>
+<text x="338" y="124" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="9" text-anchor="middle" opacity="0.6">A Rank</text>
+<rect x="408" y="34" width="120" height="100" fill="#161b22" rx="8" stroke="#56d364" stroke-width="1" stroke-opacity="0.45"/>
+<text x="468" y="62" font-size="22" text-anchor="middle">👥</text>
+<text x="468" y="90" fill="#56d364" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">0</text>
+<text x="468" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">Followers</text>
+<text x="468" y="124" fill="#56d364" font-family="Segoe UI, Arial, sans-serif" font-size="9" text-anchor="middle" opacity="0.6">A Rank</text>
+<rect x="538" y="34" width="120" height="100" fill="#161b22" rx="8" stroke="#ffa657" stroke-width="1" stroke-opacity="0.45"/>
+<text x="598" y="62" font-size="22" text-anchor="middle">💡</text>
+<text x="598" y="90" fill="#ffa657" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">0</text>
+<text x="598" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">Following</text>
+<text x="598" y="124" fill="#ffa657" font-family="Segoe UI, Arial, sans-serif" font-size="9" text-anchor="middle" opacity="0.6">A Rank</text>
+<rect x="668" y="34" width="120" height="100" fill="#161b22" rx="8" stroke="#bc8cff" stroke-width="1" stroke-opacity="0.45"/>
+<text x="728" y="62" font-size="22" text-anchor="middle">💬</text>
+<text x="728" y="90" fill="#bc8cff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">204</text>
+<text x="728" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">Commits</text>
+<text x="728" y="124" fill="#bc8cff" font-family="Segoe UI, Arial, sans-serif" font-size="9" text-anchor="middle" opacity="0.6">SSS Rank</text>
+</svg>

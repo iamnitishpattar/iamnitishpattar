@@ -8,7 +8,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="trophy.svg" alt="GitHub Trophies" width="100%"/>
+  <img src="trophies.svg" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
