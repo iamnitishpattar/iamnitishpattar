@@ -180,6 +180,8 @@ No activity tracked
 ### 📡 Latest GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2996](https://github.com/npmx-dev/npmx.dev/pull/2996) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+2. 💪 Opened PR [#2242](https://github.com/activist-org/activist/pull/2242) in [activist-org/activist](https://github.com/activist-org/activist)
 <!--END_SECTION:activity-->
 
 <br>
