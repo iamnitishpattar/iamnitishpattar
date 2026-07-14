@@ -152,6 +152,15 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 July 2026 - To: 13 July 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 > 💡 *Stats update automatically once [WakaTime](https://wakatime.com) is set up in VSCode*
