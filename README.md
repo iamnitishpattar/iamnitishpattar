@@ -48,9 +48,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,fastapi,flask,nodejs,mongodb,mysql,git,github,docker,vscode,aws&perline=8" alt="Tech Stack Icons" />
-  </a>
+  <img src="tech-carousel.svg" alt="Animated Tech Stack Carousel" />
 </div>
 
 ---
