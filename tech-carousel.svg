@@ -1,11 +1,11 @@
-<svg width="100%" height="48" viewBox="0 0 1173 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 800 256" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
         .carousel {
             animation: scroll 25s linear infinite;
         }
         @keyframes scroll {
             0% { transform: translateX(0); }
-            100% { transform: translateX(-1173px); }
+            100% { transform: translateX(-6256px); }
         }
     </style>
     <g class="carousel">
@@ -127,7 +127,7 @@
         
   
     </g>
-    <g class="carousel" transform="translate(1173, 0)">
+    <g class="carousel" transform="translate(6256, 0)">
         
     
         <g transform="translate(0, 0)">

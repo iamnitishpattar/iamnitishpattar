@@ -12,12 +12,11 @@ except Exception as e:
     print(f"Error fetching icons: {e}")
     sys.exit(1)
 
-match_width = re.search(r'width="(\d+)"', svg_data)
-match_height = re.search(r'height="(\d+)"', svg_data)
-
-if match_width and match_height:
-    width = int(match_width.group(1))
-    height = int(match_height.group(1))
+# Extract the viewBox from the ROOT svg tag
+root_svg_match = re.search(r'<svg[^>]*viewBox="0 0 (\d+) (\d+)"', svg_data)
+if root_svg_match:
+    total_width = int(root_svg_match.group(1))
+    total_height = int(root_svg_match.group(2))
     
     # Extract the inner contents
     inner_content_match = re.search(r'<svg.*?>([\s\S]*)</svg>', svg_data)
@@ -27,22 +26,26 @@ if match_width and match_height:
         
     inner_content = inner_content_match.group(1)
     
+    # The viewport will be 800 units wide and match the original content's height
+    viewport_width = 800
+    viewport_height = total_height
+    
     # Create the animated SVG. We duplicate the content to make the scrolling seamless.
-    # The first set scrolls from 0 to -width, and the second set follows right behind it.
-    animated_svg = f'''<svg width="100%" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
+    # The first set scrolls from 0 to -total_width, and the second set follows right behind it.
+    animated_svg = f'''<svg width="100%" viewBox="0 0 {viewport_width} {viewport_height}" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
         .carousel {{
             animation: scroll 25s linear infinite;
         }}
         @keyframes scroll {{
             0% {{ transform: translateX(0); }}
-            100% {{ transform: translateX(-{width}px); }}
+            100% {{ transform: translateX(-{total_width}px); }}
         }}
     </style>
     <g class="carousel">
         {inner_content}
     </g>
-    <g class="carousel" transform="translate({width}, 0)">
+    <g class="carousel" transform="translate({total_width}, 0)">
         {inner_content}
     </g>
 </svg>'''
@@ -51,4 +54,4 @@ if match_width and match_height:
         f.write(animated_svg)
     print('Created tech-carousel.svg')
 else:
-    print('Could not find width or height')
+    print('Could not find root viewBox')
