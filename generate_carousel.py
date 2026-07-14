@@ -50,8 +50,8 @@ if root_svg_match:
     </g>
 </svg>'''
     
-    with open('tech-carousel.svg', 'w', encoding='utf-8') as f:
+    with open('tech-carousel-v2.svg', 'w', encoding='utf-8') as f:
         f.write(animated_svg)
-    print('Created tech-carousel.svg perfectly')
+    print('Created tech-carousel-v2.svg perfectly')
 else:
     print('Could not find root viewBox')

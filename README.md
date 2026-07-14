@@ -48,7 +48,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="tech-carousel.svg" alt="Animated Tech Stack Carousel" />
+  <img src="tech-carousel-v2.svg" alt="Animated Tech Stack Carousel" />
 </div>
 
 ---
