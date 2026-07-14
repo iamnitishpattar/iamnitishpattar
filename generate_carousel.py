@@ -26,8 +26,9 @@ if root_svg_match:
         
     inner_content = inner_content_match.group(1)
     
-    # The viewport will be 800 units wide and match the original content's height
-    viewport_width = 800
+    # The viewport width controls how small the icons are.
+    # 3500 means roughly ~11 icons fit on the screen at once, making them nicely sized.
+    viewport_width = 3500
     viewport_height = total_height
     
     # Create the animated SVG. We duplicate the content to make the scrolling seamless.
