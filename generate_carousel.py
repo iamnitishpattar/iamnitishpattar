@@ -12,9 +12,12 @@ except Exception as e:
     print(f"Error fetching icons: {e}")
     sys.exit(1)
 
-match = re.search(r'width="(\d+)"', svg_data)
-if match:
-    width = int(match.group(1))
+match_width = re.search(r'width="(\d+)"', svg_data)
+match_height = re.search(r'height="(\d+)"', svg_data)
+
+if match_width and match_height:
+    width = int(match_width.group(1))
+    height = int(match_height.group(1))
     
     # Extract the inner contents
     inner_content_match = re.search(r'<svg.*?>([\s\S]*)</svg>', svg_data)
@@ -26,7 +29,7 @@ if match:
     
     # Create the animated SVG. We duplicate the content to make the scrolling seamless.
     # The first set scrolls from 0 to -width, and the second set follows right behind it.
-    animated_svg = f'''<svg width="100%" height="80" viewBox="0 0 {width} 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    animated_svg = f'''<svg width="100%" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
         .carousel {{
             animation: scroll 25s linear infinite;
@@ -48,4 +51,4 @@ if match:
         f.write(animated_svg)
     print('Created tech-carousel.svg')
 else:
-    print('Could not find width')
+    print('Could not find width or height')
