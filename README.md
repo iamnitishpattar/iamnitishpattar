@@ -176,10 +176,10 @@ No activity tracked
 
 ---
 
-### 🗺️ 3D Contribution Graph
+### 📊 GitHub Stats Radar
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamnitishpattar&theme=tokyonight" alt="GitHub Stats Radar" />
 </div>
 
 ---
