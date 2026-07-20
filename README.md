@@ -220,8 +220,8 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### 📡 Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2996](https://github.com/npmx-dev/npmx.dev/pull/2996) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
-2. 💪 Opened PR [#2242](https://github.com/activist-org/activist/pull/2242) in [activist-org/activist](https://github.com/activist-org/activist)
+1. 💪 Opened PR [#23265](https://github.com/tldr-pages/tldr/pull/23265) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 💪 Opened PR [#2996](https://github.com/npmx-dev/npmx.dev/pull/2996) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
 <!--END_SECTION:activity-->
 
 <div align="center">
