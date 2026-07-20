@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:58a6ff&height=210&section=header&text=Nitish%20Pattar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" alt="Nitish Pattar"/>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nitish+Pattar+%F0%9F%91%8B;Full+Stack+Developer+%26+MCA+Student;Building+AI+%26+Data-Driven+Applications;Open+to+Collaborations+%26+Internships" alt="Typing SVG" />
 </div>
@@ -34,7 +36,9 @@
 
 <br clear="right"/>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6&height=60" alt="section divider"/>
+</div>
 
 <!-- Trophies -->
 ### 🏆 GitHub Trophies
@@ -103,7 +107,9 @@
   </table>
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6&height=60" alt="section divider"/>
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -159,7 +165,13 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### 📊 GitHub Stats Radar
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamnitishpattar&theme=tokyonight" alt="GitHub Stats Radar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamnitishpattar&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamnitishpattar&theme=tokyonight" alt="Repos Per Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamnitishpattar&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamnitishpattar&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)" />
 </div>
 
 ---
@@ -198,7 +210,9 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /></p>
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6&height=60" alt="section divider"/>
+</div>
 
 ### 🤝 Connect & Support
 
@@ -223,3 +237,5 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="center">
   <i>⭐ Star my repos if you find them useful! Every star motivates me to build more. ⭐</i>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1e3a8a,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together!&descSize=15&descAlignY=82&descAlign=50" alt="footer wave"/>
