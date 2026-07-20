@@ -137,7 +137,7 @@
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/iamnitishpattar?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/nitishpattar7?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
 </div>
 
 
