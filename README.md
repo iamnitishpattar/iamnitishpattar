@@ -198,20 +198,7 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </picture>
 </div>
 
----
 
-### 🌐 GitHub Skyline
-
-<div align="center">
-  <a href="https://skyline.github.com/iamnitishpattar/2025">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%202025-View%203D-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
-  <a href="https://skyline.github.com/iamnitishpattar/2026">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%202026-View%203D-7ee787?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Skyline 2026"/>
-  </a>
-</div>
-
----
 
 ### 🗓️ 3D Contribution Calendar
 
