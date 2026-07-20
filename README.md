@@ -1,6 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:58a6ff&height=210&section=header&text=Nitish%20Pattar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" alt="Nitish Pattar"/>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/nitish-pattar"><img src="https://img.shields.io/badge/Open%20to%20Work-00B86B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/></a>
+  <a href="https://nitish-portfolio-amber.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/iamnitishpattar"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nitish+Pattar+%F0%9F%91%8B;Full+Stack+Developer+%26+MCA+Student;Building+AI+%26+Data-Driven+Applications;Open+to+Collaborations+%26+Internships" alt="Typing SVG" />
 </div>
 
@@ -128,6 +134,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnitishpattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/iamnitishpattar?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+</div>
+
 
 ---
 
@@ -188,8 +200,33 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
+### 🌐 GitHub Skyline
+
+<div align="center">
+  <a href="https://skyline.github.com/iamnitishpattar/2025">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline%202025-View%203D-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
+  <a href="https://skyline.github.com/iamnitishpattar/2026">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline%202026-View%203D-7ee787?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Skyline 2026"/>
+  </a>
+</div>
+
+---
+
+### 🗓️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
+</div>
+
+---
+
 <!-- Dev Quote -->
 ### 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
 ---
 
@@ -199,12 +236,6 @@ Python       35 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 1. 💪 Opened PR [#2996](https://github.com/npmx-dev/npmx.dev/pull/2996) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
 2. 💪 Opened PR [#2242](https://github.com/activist-org/activist/pull/2242) in [activist-org/activist](https://github.com/activist-org/activist)
 <!--END_SECTION:activity-->
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
 
 <div align="center">
   <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /></p>
