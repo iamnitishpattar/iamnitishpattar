@@ -220,8 +220,8 @@ Docker       34 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### 📡 Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23265](https://github.com/tldr-pages/tldr/pull/23265) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. 💪 Opened PR [#2996](https://github.com/npmx-dev/npmx.dev/pull/2996) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+1. ❗ Opened issue [#2](https://github.com/iamnitishpattar/helixvault/issues/2) in [iamnitishpattar/helixvault](https://github.com/iamnitishpattar/helixvault)
+2. ❗ Opened issue [#1](https://github.com/iamnitishpattar/helixvault/issues/1) in [iamnitishpattar/helixvault](https://github.com/iamnitishpattar/helixvault)
 <!--END_SECTION:activity-->
 
 <div align="center">
